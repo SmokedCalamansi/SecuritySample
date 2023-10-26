@@ -1,10 +1,8 @@
 # SecuritySample
 
-Setting
-
-spring boot 2.7x
-jdk 11
-maven project
+spring boot 2.7x </br>
+jdk 11 </br> 
+maven project </br>
 
 Dependencies
 - Spring Boot DevTools
